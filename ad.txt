@@ -1,3 +1,1 @@
-142.251.111.113 translate.googleapis.com
-142.251.111.113 translate.google.com
-142.251.111.113 translate.googleusercontent.com
+@@||ysp.cctv.cn^
